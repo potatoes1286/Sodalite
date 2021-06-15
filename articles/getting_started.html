@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Getting started </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Getting started ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="getting-started">Getting started</h1>
+
+<p>These articles will guide you through creating a BepInEx plugin, using Sodalite,
+and then running your plugin in game. While this is intended as a starting point
+for people new to modding H3VR (and possibly modding Unity games in general)
+this is <em>not</em> a comprehensive guide to C#, Unity, or even BepInEx. Documentation
+for each of those can be found on their respective websites.</p>
+<h2 id="required-tools">Required tools</h2>
+<p>To follow along with this guide, you must have a C# IDE installed. This guide
+will assume you are using Visual Studio, however you are free to use whichever
+tool you want as the concepts will all be the same.</p>
+<h2 id="setup">Setup</h2>
+<p>The H3VR Modding organization on GitHub contains a template project that you can
+make use of to skip much of the initial setup (WIP). Download this template
+using the <code>code</code> button on the page and extract it to somewhere on your
+computer. GitHub also offers a feature where you can use the template to
+automatically create a new repository with it's contents. While it is not
+required, if you plan on putting your code on GitHub anyway then that is a good
+option too.</p>
+<h2 id="opening-building-and-running-the-project">Opening, building, and running the project</h2>
+<p>With the template project downloaded, open it in your IDE. Contained in the
+template is a simple example plugin class which demonstrates the basic usage of
+BepInEx plugins and Sodalite APIs. It is already a complete plugin so go ahead
+and compile the project using the <code>Build &gt; Build Solution</code> menu item.</p>
+<p>After building the example plugin, in your file explorer navigate to
+<code>ExamplePlugin/ExamplePlugin/bin/Debug/net35/</code> and copy the <code>ExamplePlugin.dll</code>
+to your <code>h3vr/BepInEx/plugins/</code> folder. These paths may vary slightly depending
+on how you've setup your project and installed your mods.</p>
+<p>Now all that's left is running the game. With any luck, the example plugin
+will be shown loading in the BepInEx console window and it will have added a
+wrist menu button to show that it is working!</p>
+<h2 id="whats-next">What's next</h2>
+<p>The basics of creating plugins for the game are identical to generic BepInEx.
+If you have not done so already, it is recommended that you read <a href="https://docs.bepinex.dev/master/articles/index.html">their
+documentation</a> too since
+many of the concepts are used here.</p>
+<p>For more things relating specifically to H3VR, you can browse the Sodalite
+documentation to see the APIs it offers. If you can't find what you're looking
+for, it is also sometimes helpful to search the game's <code>Assembly-CSharp.dll</code> in
+dnSpy as it often contains useful bits of code.</p>
+<p>Finally, if you are totally stumped, feel free to join the H3VR Modding Discord
+server and ask us a question!</p>
+<p><a href="https://discord.gg/DCsdXk4r9A"><img src="https://img.shields.io/discord/777351065950879744?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=flat-square" alt="Discord"></a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/docs/articles/getting_started.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="toggle-mode">
+                <div class="icon">
+                  <i aria-hidden="true">☀</i>
+                </div>
+                <label class="switch">
+                  <input type="checkbox" id="switch-style">
+                  <span class="slider round"></span>
+                </label>
+                <div class="icon">
+                  <i aria-hidden="true">☾</i>
+                </div>
+                <script type="text/javascript" src="../styles/toggle-theme.js"></script>
+              </div>
+          
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

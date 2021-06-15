@@ -1,0 +1,1299 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Sodalite
+  name: Sodalite
+  href: api/Sodalite.html
+  commentId: N:Sodalite
+  fullName: Sodalite
+  nameWithType: Sodalite
+- uid: Sodalite.Api
+  name: Sodalite.Api
+  href: api/Sodalite.Api.html
+  commentId: N:Sodalite.Api
+  fullName: Sodalite.Api
+  nameWithType: Sodalite.Api
+- uid: Sodalite.Api.FirearmAPI
+  name: FirearmAPI
+  href: api/Sodalite.Api.FirearmAPI.html
+  commentId: T:Sodalite.Api.FirearmAPI
+  fullName: Sodalite.Api.FirearmAPI
+  nameWithType: FirearmAPI
+- uid: Sodalite.Api.FirearmAPI.AllComponentsLoaded(FistVR.SavedGun)
+  name: AllComponentsLoaded(SavedGun)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_AllComponentsLoaded_FistVR_SavedGun_
+  commentId: M:Sodalite.Api.FirearmAPI.AllComponentsLoaded(FistVR.SavedGun)
+  fullName: Sodalite.Api.FirearmAPI.AllComponentsLoaded(FistVR.SavedGun)
+  nameWithType: FirearmAPI.AllComponentsLoaded(SavedGun)
+- uid: Sodalite.Api.FirearmAPI.AllComponentsLoaded*
+  name: AllComponentsLoaded
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_AllComponentsLoaded_
+  commentId: Overload:Sodalite.Api.FirearmAPI.AllComponentsLoaded
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.AllComponentsLoaded
+  nameWithType: FirearmAPI.AllComponentsLoaded
+- uid: Sodalite.Api.FirearmAPI.GetAttachedObjects(FistVR.FVRFireArm)
+  name: GetAttachedObjects(FVRFireArm)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetAttachedObjects_FistVR_FVRFireArm_
+  commentId: M:Sodalite.Api.FirearmAPI.GetAttachedObjects(FistVR.FVRFireArm)
+  fullName: Sodalite.Api.FirearmAPI.GetAttachedObjects(FistVR.FVRFireArm)
+  nameWithType: FirearmAPI.GetAttachedObjects(FVRFireArm)
+- uid: Sodalite.Api.FirearmAPI.GetAttachedObjects*
+  name: GetAttachedObjects
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetAttachedObjects_
+  commentId: Overload:Sodalite.Api.FirearmAPI.GetAttachedObjects
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.GetAttachedObjects
+  nameWithType: FirearmAPI.GetAttachedObjects
+- uid: Sodalite.Api.FirearmAPI.GetCompatibleMagazines(FistVR.FVRObject)
+  name: GetCompatibleMagazines(FVRObject)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetCompatibleMagazines_FistVR_FVRObject_
+  commentId: M:Sodalite.Api.FirearmAPI.GetCompatibleMagazines(FistVR.FVRObject)
+  fullName: Sodalite.Api.FirearmAPI.GetCompatibleMagazines(FistVR.FVRObject)
+  nameWithType: FirearmAPI.GetCompatibleMagazines(FVRObject)
+- uid: Sodalite.Api.FirearmAPI.GetCompatibleMagazines*
+  name: GetCompatibleMagazines
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetCompatibleMagazines_
+  commentId: Overload:Sodalite.Api.FirearmAPI.GetCompatibleMagazines
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.GetCompatibleMagazines
+  nameWithType: FirearmAPI.GetCompatibleMagazines
+- uid: Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})
+  name: GetMagazineCompatibleWithAny(IEnumerable<FVRObject>, Func<FVRObject, Boolean>)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetMagazineCompatibleWithAny_System_Collections_Generic_IEnumerable_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__
+  commentId: M:Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})
+  name.vb: GetMagazineCompatibleWithAny(IEnumerable(Of FVRObject), Func(Of FVRObject, Boolean))
+  fullName: Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable<FistVR.FVRObject>, System.Func<FistVR.FVRObject, System.Boolean>)
+  fullName.vb: Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable(Of FistVR.FVRObject), System.Func(Of FistVR.FVRObject, System.Boolean))
+  nameWithType: FirearmAPI.GetMagazineCompatibleWithAny(IEnumerable<FVRObject>, Func<FVRObject, Boolean>)
+  nameWithType.vb: FirearmAPI.GetMagazineCompatibleWithAny(IEnumerable(Of FVRObject), Func(Of FVRObject, Boolean))
+- uid: Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny*
+  name: GetMagazineCompatibleWithAny
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetMagazineCompatibleWithAny_
+  commentId: Overload:Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny
+  nameWithType: FirearmAPI.GetMagazineCompatibleWithAny
+- uid: Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Int32,System.Func{FistVR.FVRObject,System.Boolean})
+  name: GetNextHighestCapacityMagazine(IList<FVRObject>, Int32, Func<FVRObject, Boolean>)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetNextHighestCapacityMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Int32_System_Func_FistVR_FVRObject_System_Boolean__
+  commentId: M:Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Int32,System.Func{FistVR.FVRObject,System.Boolean})
+  name.vb: GetNextHighestCapacityMagazine(IList(Of FVRObject), Int32, Func(Of FVRObject, Boolean))
+  fullName: Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList<FistVR.FVRObject>, System.Int32, System.Func<FistVR.FVRObject, System.Boolean>)
+  fullName.vb: Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList(Of FistVR.FVRObject), System.Int32, System.Func(Of FistVR.FVRObject, System.Boolean))
+  nameWithType: FirearmAPI.GetNextHighestCapacityMagazine(IList<FVRObject>, Int32, Func<FVRObject, Boolean>)
+  nameWithType.vb: FirearmAPI.GetNextHighestCapacityMagazine(IList(Of FVRObject), Int32, Func(Of FVRObject, Boolean))
+- uid: Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine*
+  name: GetNextHighestCapacityMagazine
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetNextHighestCapacityMagazine_
+  commentId: Overload:Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine
+  nameWithType: FirearmAPI.GetNextHighestCapacityMagazine
+- uid: Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject,System.Func{FistVR.FVRObject,System.Boolean})
+  name: GetSmallestMagazine(FVRObject, Func<FVRObject, Boolean>)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetSmallestMagazine_FistVR_FVRObject_System_Func_FistVR_FVRObject_System_Boolean__
+  commentId: M:Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject,System.Func{FistVR.FVRObject,System.Boolean})
+  name.vb: GetSmallestMagazine(FVRObject, Func(Of FVRObject, Boolean))
+  fullName: Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject, System.Func<FistVR.FVRObject, System.Boolean>)
+  fullName.vb: Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject, System.Func(Of FistVR.FVRObject, System.Boolean))
+  nameWithType: FirearmAPI.GetSmallestMagazine(FVRObject, Func<FVRObject, Boolean>)
+  nameWithType.vb: FirearmAPI.GetSmallestMagazine(FVRObject, Func(Of FVRObject, Boolean))
+- uid: Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})
+  name: GetSmallestMagazine(IList<FVRObject>, Func<FVRObject, Boolean>)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetSmallestMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__
+  commentId: M:Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})
+  name.vb: GetSmallestMagazine(IList(Of FVRObject), Func(Of FVRObject, Boolean))
+  fullName: Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList<FistVR.FVRObject>, System.Func<FistVR.FVRObject, System.Boolean>)
+  fullName.vb: Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList(Of FistVR.FVRObject), System.Func(Of FistVR.FVRObject, System.Boolean))
+  nameWithType: FirearmAPI.GetSmallestMagazine(IList<FVRObject>, Func<FVRObject, Boolean>)
+  nameWithType.vb: FirearmAPI.GetSmallestMagazine(IList(Of FVRObject), Func(Of FVRObject, Boolean))
+- uid: Sodalite.Api.FirearmAPI.GetSmallestMagazine*
+  name: GetSmallestMagazine
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_GetSmallestMagazine_
+  commentId: Overload:Sodalite.Api.FirearmAPI.GetSmallestMagazine
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.GetSmallestMagazine
+  nameWithType: FirearmAPI.GetSmallestMagazine
+- uid: Sodalite.Api.FirearmAPI.HasAmmo(FistVR.FVRObject)
+  name: HasAmmo(FVRObject)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_HasAmmo_FistVR_FVRObject_
+  commentId: M:Sodalite.Api.FirearmAPI.HasAmmo(FistVR.FVRObject)
+  fullName: Sodalite.Api.FirearmAPI.HasAmmo(FistVR.FVRObject)
+  nameWithType: FirearmAPI.HasAmmo(FVRObject)
+- uid: Sodalite.Api.FirearmAPI.HasAmmo*
+  name: HasAmmo
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_HasAmmo_
+  commentId: Overload:Sodalite.Api.FirearmAPI.HasAmmo
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.HasAmmo
+  nameWithType: FirearmAPI.HasAmmo
+- uid: Sodalite.Api.FirearmAPI.HasMagazine(FistVR.FVRObject)
+  name: HasMagazine(FVRObject)
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_HasMagazine_FistVR_FVRObject_
+  commentId: M:Sodalite.Api.FirearmAPI.HasMagazine(FistVR.FVRObject)
+  fullName: Sodalite.Api.FirearmAPI.HasMagazine(FistVR.FVRObject)
+  nameWithType: FirearmAPI.HasMagazine(FVRObject)
+- uid: Sodalite.Api.FirearmAPI.HasMagazine*
+  name: HasMagazine
+  href: api/Sodalite.Api.FirearmAPI.html#Sodalite_Api_FirearmAPI_HasMagazine_
+  commentId: Overload:Sodalite.Api.FirearmAPI.HasMagazine
+  isSpec: "True"
+  fullName: Sodalite.Api.FirearmAPI.HasMagazine
+  nameWithType: FirearmAPI.HasMagazine
+- uid: Sodalite.Api.LeaderboardAPI
+  name: LeaderboardAPI
+  href: api/Sodalite.Api.LeaderboardAPI.html
+  commentId: T:Sodalite.Api.LeaderboardAPI
+  fullName: Sodalite.Api.LeaderboardAPI
+  nameWithType: LeaderboardAPI
+- uid: Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock
+  name: GetLeaderboardDisableLock()
+  href: api/Sodalite.Api.LeaderboardAPI.html#Sodalite_Api_LeaderboardAPI_GetLeaderboardDisableLock
+  commentId: M:Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock
+  fullName: Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock()
+  nameWithType: LeaderboardAPI.GetLeaderboardDisableLock()
+- uid: Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock*
+  name: GetLeaderboardDisableLock
+  href: api/Sodalite.Api.LeaderboardAPI.html#Sodalite_Api_LeaderboardAPI_GetLeaderboardDisableLock_
+  commentId: Overload:Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock
+  isSpec: "True"
+  fullName: Sodalite.Api.LeaderboardAPI.GetLeaderboardDisableLock
+  nameWithType: LeaderboardAPI.GetLeaderboardDisableLock
+- uid: Sodalite.Api.LockablePanel
+  name: LockablePanel
+  href: api/Sodalite.Api.LockablePanel.html
+  commentId: T:Sodalite.Api.LockablePanel
+  fullName: Sodalite.Api.LockablePanel
+  nameWithType: LockablePanel
+- uid: Sodalite.Api.LockablePanel.Configure
+  name: Configure
+  href: api/Sodalite.Api.LockablePanel.html#Sodalite_Api_LockablePanel_Configure
+  commentId: E:Sodalite.Api.LockablePanel.Configure
+  fullName: Sodalite.Api.LockablePanel.Configure
+  nameWithType: LockablePanel.Configure
+- uid: Sodalite.Api.LockablePanel.GetOrCreatePanel
+  name: GetOrCreatePanel()
+  href: api/Sodalite.Api.LockablePanel.html#Sodalite_Api_LockablePanel_GetOrCreatePanel
+  commentId: M:Sodalite.Api.LockablePanel.GetOrCreatePanel
+  fullName: Sodalite.Api.LockablePanel.GetOrCreatePanel()
+  nameWithType: LockablePanel.GetOrCreatePanel()
+- uid: Sodalite.Api.LockablePanel.GetOrCreatePanel*
+  name: GetOrCreatePanel
+  href: api/Sodalite.Api.LockablePanel.html#Sodalite_Api_LockablePanel_GetOrCreatePanel_
+  commentId: Overload:Sodalite.Api.LockablePanel.GetOrCreatePanel
+  isSpec: "True"
+  fullName: Sodalite.Api.LockablePanel.GetOrCreatePanel
+  nameWithType: LockablePanel.GetOrCreatePanel
+- uid: Sodalite.Api.LockablePanel.TextureOverride
+  name: TextureOverride
+  href: api/Sodalite.Api.LockablePanel.html#Sodalite_Api_LockablePanel_TextureOverride
+  commentId: F:Sodalite.Api.LockablePanel.TextureOverride
+  fullName: Sodalite.Api.LockablePanel.TextureOverride
+  nameWithType: LockablePanel.TextureOverride
+- uid: Sodalite.Api.LockablePanelAPI
+  name: LockablePanelAPI
+  href: api/Sodalite.Api.LockablePanelAPI.html
+  commentId: T:Sodalite.Api.LockablePanelAPI
+  fullName: Sodalite.Api.LockablePanelAPI
+  nameWithType: LockablePanelAPI
+- uid: Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel
+  name: GetCleanLockablePanel()
+  href: api/Sodalite.Api.LockablePanelAPI.html#Sodalite_Api_LockablePanelAPI_GetCleanLockablePanel
+  commentId: M:Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel
+  fullName: Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel()
+  nameWithType: LockablePanelAPI.GetCleanLockablePanel()
+- uid: Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel*
+  name: GetCleanLockablePanel
+  href: api/Sodalite.Api.LockablePanelAPI.html#Sodalite_Api_LockablePanelAPI_GetCleanLockablePanel_
+  commentId: Overload:Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel
+  isSpec: "True"
+  fullName: Sodalite.Api.LockablePanelAPI.GetCleanLockablePanel
+  nameWithType: LockablePanelAPI.GetCleanLockablePanel
+- uid: Sodalite.Api.PlayerAPI
+  name: PlayerAPI
+  href: api/Sodalite.Api.PlayerAPI.html
+  commentId: T:Sodalite.Api.PlayerAPI
+  fullName: Sodalite.Api.PlayerAPI
+  nameWithType: PlayerAPI
+- uid: Sodalite.Api.PlayerAPI.GetEquippedObjects
+  name: GetEquippedObjects()
+  href: api/Sodalite.Api.PlayerAPI.html#Sodalite_Api_PlayerAPI_GetEquippedObjects
+  commentId: M:Sodalite.Api.PlayerAPI.GetEquippedObjects
+  fullName: Sodalite.Api.PlayerAPI.GetEquippedObjects()
+  nameWithType: PlayerAPI.GetEquippedObjects()
+- uid: Sodalite.Api.PlayerAPI.GetEquippedObjects*
+  name: GetEquippedObjects
+  href: api/Sodalite.Api.PlayerAPI.html#Sodalite_Api_PlayerAPI_GetEquippedObjects_
+  commentId: Overload:Sodalite.Api.PlayerAPI.GetEquippedObjects
+  isSpec: "True"
+  fullName: Sodalite.Api.PlayerAPI.GetEquippedObjects
+  nameWithType: PlayerAPI.GetEquippedObjects
+- uid: Sodalite.Api.SosigAPI
+  name: SosigAPI
+  href: api/Sodalite.Api.SosigAPI.html
+  commentId: T:Sodalite.Api.SosigAPI
+  fullName: Sodalite.Api.SosigAPI
+  nameWithType: SosigAPI
+- uid: Sodalite.Api.SosigAPI.Spawn(FistVR.SosigEnemyTemplate,Sodalite.Api.SosigAPI.SpawnOptions,Vector3,Quaternion)
+  name: Spawn(SosigEnemyTemplate, SosigAPI.SpawnOptions, Vector3, Quaternion)
+  href: api/Sodalite.Api.SosigAPI.html#Sodalite_Api_SosigAPI_Spawn_FistVR_SosigEnemyTemplate_Sodalite_Api_SosigAPI_SpawnOptions_Vector3_Quaternion_
+  commentId: M:Sodalite.Api.SosigAPI.Spawn(FistVR.SosigEnemyTemplate,Sodalite.Api.SosigAPI.SpawnOptions,Vector3,Quaternion)
+  fullName: Sodalite.Api.SosigAPI.Spawn(FistVR.SosigEnemyTemplate, Sodalite.Api.SosigAPI.SpawnOptions, Vector3, Quaternion)
+  nameWithType: SosigAPI.Spawn(SosigEnemyTemplate, SosigAPI.SpawnOptions, Vector3, Quaternion)
+- uid: Sodalite.Api.SosigAPI.Spawn*
+  name: Spawn
+  href: api/Sodalite.Api.SosigAPI.html#Sodalite_Api_SosigAPI_Spawn_
+  commentId: Overload:Sodalite.Api.SosigAPI.Spawn
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.Spawn
+  nameWithType: SosigAPI.Spawn
+- uid: Sodalite.Api.SosigAPI.SpawnOptions
+  name: SosigAPI.SpawnOptions
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html
+  commentId: T:Sodalite.Api.SosigAPI.SpawnOptions
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions
+  nameWithType: SosigAPI.SpawnOptions
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode
+  name: EquipmentMode
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentMode
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode
+  nameWithType: SosigAPI.SpawnOptions.EquipmentMode
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode*
+  name: EquipmentMode
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentMode_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentMode
+  nameWithType: SosigAPI.SpawnOptions.EquipmentMode
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots
+  name: SosigAPI.SpawnOptions.EquipmentSlots
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html
+  commentId: T:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots
+  nameWithType: SosigAPI.SpawnOptions.EquipmentSlots
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.All
+  name: All
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentSlots_All
+  commentId: F:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.All
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.All
+  nameWithType: SosigAPI.SpawnOptions.EquipmentSlots.All
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Primary
+  name: Primary
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentSlots_Primary
+  commentId: F:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Primary
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Primary
+  nameWithType: SosigAPI.SpawnOptions.EquipmentSlots.Primary
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Secondary
+  name: Secondary
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentSlots_Secondary
+  commentId: F:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Secondary
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Secondary
+  nameWithType: SosigAPI.SpawnOptions.EquipmentSlots.Secondary
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Tertiary
+  name: Tertiary
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.html#Sodalite_Api_SosigAPI_SpawnOptions_EquipmentSlots_Tertiary
+  commentId: F:Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Tertiary
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.EquipmentSlots.Tertiary
+  nameWithType: SosigAPI.SpawnOptions.EquipmentSlots.Tertiary
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.IFF
+  name: IFF
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_IFF
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.IFF
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.IFF
+  nameWithType: SosigAPI.SpawnOptions.IFF
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.IFF*
+  name: IFF
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_IFF_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.IFF
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.IFF
+  nameWithType: SosigAPI.SpawnOptions.IFF
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition
+  name: SosigTargetPosition
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SosigTargetPosition
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition
+  nameWithType: SosigAPI.SpawnOptions.SosigTargetPosition
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition*
+  name: SosigTargetPosition
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SosigTargetPosition_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetPosition
+  nameWithType: SosigAPI.SpawnOptions.SosigTargetPosition
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation
+  name: SosigTargetRotation
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SosigTargetRotation
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation
+  nameWithType: SosigAPI.SpawnOptions.SosigTargetRotation
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation*
+  name: SosigTargetRotation
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SosigTargetRotation_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SosigTargetRotation
+  nameWithType: SosigAPI.SpawnOptions.SosigTargetRotation
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated
+  name: SpawnActivated
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnActivated
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated
+  nameWithType: SosigAPI.SpawnOptions.SpawnActivated
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated*
+  name: SpawnActivated
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnActivated_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnActivated
+  nameWithType: SosigAPI.SpawnOptions.SpawnActivated
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnState
+  name: SpawnState
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnState
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.SpawnState
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnState
+  nameWithType: SosigAPI.SpawnOptions.SpawnState
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnState*
+  name: SpawnState
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnState_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.SpawnState
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnState
+  nameWithType: SosigAPI.SpawnOptions.SpawnState
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo
+  name: SpawnWithFullAmmo
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnWithFullAmmo
+  commentId: P:Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo
+  nameWithType: SosigAPI.SpawnOptions.SpawnWithFullAmmo
+- uid: Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo*
+  name: SpawnWithFullAmmo
+  href: api/Sodalite.Api.SosigAPI.SpawnOptions.html#Sodalite_Api_SosigAPI_SpawnOptions_SpawnWithFullAmmo_
+  commentId: Overload:Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo
+  isSpec: "True"
+  fullName: Sodalite.Api.SosigAPI.SpawnOptions.SpawnWithFullAmmo
+  nameWithType: SosigAPI.SpawnOptions.SpawnWithFullAmmo
+- uid: Sodalite.Api.VaultAPI
+  name: VaultAPI
+  href: api/Sodalite.Api.VaultAPI.html
+  commentId: T:Sodalite.Api.VaultAPI
+  fullName: Sodalite.Api.VaultAPI
+  nameWithType: VaultAPI
+- uid: Sodalite.Api.VaultAPI.SaveGun(FistVR.FVRFireArm)
+  name: SaveGun(FVRFireArm)
+  href: api/Sodalite.Api.VaultAPI.html#Sodalite_Api_VaultAPI_SaveGun_FistVR_FVRFireArm_
+  commentId: M:Sodalite.Api.VaultAPI.SaveGun(FistVR.FVRFireArm)
+  fullName: Sodalite.Api.VaultAPI.SaveGun(FistVR.FVRFireArm)
+  nameWithType: VaultAPI.SaveGun(FVRFireArm)
+- uid: Sodalite.Api.VaultAPI.SaveGun*
+  name: SaveGun
+  href: api/Sodalite.Api.VaultAPI.html#Sodalite_Api_VaultAPI_SaveGun_
+  commentId: Overload:Sodalite.Api.VaultAPI.SaveGun
+  isSpec: "True"
+  fullName: Sodalite.Api.VaultAPI.SaveGun
+  nameWithType: VaultAPI.SaveGun
+- uid: Sodalite.Api.VaultAPI.SpawnGun(FistVR.SavedGun,Vector3,Quaternion)
+  name: SpawnGun(SavedGun, Vector3, Quaternion)
+  href: api/Sodalite.Api.VaultAPI.html#Sodalite_Api_VaultAPI_SpawnGun_FistVR_SavedGun_Vector3_Quaternion_
+  commentId: M:Sodalite.Api.VaultAPI.SpawnGun(FistVR.SavedGun,Vector3,Quaternion)
+  fullName: Sodalite.Api.VaultAPI.SpawnGun(FistVR.SavedGun, Vector3, Quaternion)
+  nameWithType: VaultAPI.SpawnGun(SavedGun, Vector3, Quaternion)
+- uid: Sodalite.Api.VaultAPI.SpawnGun*
+  name: SpawnGun
+  href: api/Sodalite.Api.VaultAPI.html#Sodalite_Api_VaultAPI_SpawnGun_
+  commentId: Overload:Sodalite.Api.VaultAPI.SpawnGun
+  isSpec: "True"
+  fullName: Sodalite.Api.VaultAPI.SpawnGun
+  nameWithType: VaultAPI.SpawnGun
+- uid: Sodalite.Api.WristMenuAPI
+  name: WristMenuAPI
+  href: api/Sodalite.Api.WristMenuAPI.html
+  commentId: T:Sodalite.Api.WristMenuAPI
+  fullName: Sodalite.Api.WristMenuAPI
+  nameWithType: WristMenuAPI
+- uid: Sodalite.Api.WristMenuAPI.Buttons
+  name: Buttons
+  href: api/Sodalite.Api.WristMenuAPI.html#Sodalite_Api_WristMenuAPI_Buttons
+  commentId: P:Sodalite.Api.WristMenuAPI.Buttons
+  fullName: Sodalite.Api.WristMenuAPI.Buttons
+  nameWithType: WristMenuAPI.Buttons
+- uid: Sodalite.Api.WristMenuAPI.Buttons*
+  name: Buttons
+  href: api/Sodalite.Api.WristMenuAPI.html#Sodalite_Api_WristMenuAPI_Buttons_
+  commentId: Overload:Sodalite.Api.WristMenuAPI.Buttons
+  isSpec: "True"
+  fullName: Sodalite.Api.WristMenuAPI.Buttons
+  nameWithType: WristMenuAPI.Buttons
+- uid: Sodalite.Api.WristMenuAPI.Instance
+  name: Instance
+  href: api/Sodalite.Api.WristMenuAPI.html#Sodalite_Api_WristMenuAPI_Instance
+  commentId: P:Sodalite.Api.WristMenuAPI.Instance
+  fullName: Sodalite.Api.WristMenuAPI.Instance
+  nameWithType: WristMenuAPI.Instance
+- uid: Sodalite.Api.WristMenuAPI.Instance*
+  name: Instance
+  href: api/Sodalite.Api.WristMenuAPI.html#Sodalite_Api_WristMenuAPI_Instance_
+  commentId: Overload:Sodalite.Api.WristMenuAPI.Instance
+  isSpec: "True"
+  fullName: Sodalite.Api.WristMenuAPI.Instance
+  nameWithType: WristMenuAPI.Instance
+- uid: Sodalite.Api.WristMenuButton
+  name: WristMenuButton
+  href: api/Sodalite.Api.WristMenuButton.html
+  commentId: T:Sodalite.Api.WristMenuButton
+  fullName: Sodalite.Api.WristMenuButton
+  nameWithType: WristMenuButton
+- uid: Sodalite.Api.WristMenuButton.#ctor(System.String,System.Action)
+  name: WristMenuButton(String, Action)
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton__ctor_System_String_System_Action_
+  commentId: M:Sodalite.Api.WristMenuButton.#ctor(System.String,System.Action)
+  fullName: Sodalite.Api.WristMenuButton.WristMenuButton(System.String, System.Action)
+  nameWithType: WristMenuButton.WristMenuButton(String, Action)
+- uid: Sodalite.Api.WristMenuButton.#ctor(System.String,System.Int32,System.Action)
+  name: WristMenuButton(String, Int32, Action)
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton__ctor_System_String_System_Int32_System_Action_
+  commentId: M:Sodalite.Api.WristMenuButton.#ctor(System.String,System.Int32,System.Action)
+  fullName: Sodalite.Api.WristMenuButton.WristMenuButton(System.String, System.Int32, System.Action)
+  nameWithType: WristMenuButton.WristMenuButton(String, Int32, Action)
+- uid: Sodalite.Api.WristMenuButton.#ctor*
+  name: WristMenuButton
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton__ctor_
+  commentId: Overload:Sodalite.Api.WristMenuButton.#ctor
+  isSpec: "True"
+  fullName: Sodalite.Api.WristMenuButton.WristMenuButton
+  nameWithType: WristMenuButton.WristMenuButton
+- uid: Sodalite.Api.WristMenuButton.OnClick
+  name: OnClick
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_OnClick
+  commentId: E:Sodalite.Api.WristMenuButton.OnClick
+  fullName: Sodalite.Api.WristMenuButton.OnClick
+  nameWithType: WristMenuButton.OnClick
+- uid: Sodalite.Api.WristMenuButton.OnCreate
+  name: OnCreate
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_OnCreate
+  commentId: E:Sodalite.Api.WristMenuButton.OnCreate
+  fullName: Sodalite.Api.WristMenuButton.OnCreate
+  nameWithType: WristMenuButton.OnCreate
+- uid: Sodalite.Api.WristMenuButton.Priority
+  name: Priority
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_Priority
+  commentId: P:Sodalite.Api.WristMenuButton.Priority
+  fullName: Sodalite.Api.WristMenuButton.Priority
+  nameWithType: WristMenuButton.Priority
+- uid: Sodalite.Api.WristMenuButton.Priority*
+  name: Priority
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_Priority_
+  commentId: Overload:Sodalite.Api.WristMenuButton.Priority
+  isSpec: "True"
+  fullName: Sodalite.Api.WristMenuButton.Priority
+  nameWithType: WristMenuButton.Priority
+- uid: Sodalite.Api.WristMenuButton.Text
+  name: Text
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_Text
+  commentId: P:Sodalite.Api.WristMenuButton.Text
+  fullName: Sodalite.Api.WristMenuButton.Text
+  nameWithType: WristMenuButton.Text
+- uid: Sodalite.Api.WristMenuButton.Text*
+  name: Text
+  href: api/Sodalite.Api.WristMenuButton.html#Sodalite_Api_WristMenuButton_Text_
+  commentId: Overload:Sodalite.Api.WristMenuButton.Text
+  isSpec: "True"
+  fullName: Sodalite.Api.WristMenuButton.Text
+  nameWithType: WristMenuButton.Text
+- uid: Sodalite.BepInExLogPanel
+  name: BepInExLogPanel
+  href: api/Sodalite.BepInExLogPanel.html
+  commentId: T:Sodalite.BepInExLogPanel
+  fullName: Sodalite.BepInExLogPanel
+  nameWithType: BepInExLogPanel
+- uid: Sodalite.ScrollPointable
+  name: ScrollPointable
+  href: api/Sodalite.ScrollPointable.html
+  commentId: T:Sodalite.ScrollPointable
+  fullName: Sodalite.ScrollPointable
+  nameWithType: ScrollPointable
+- uid: Sodalite.ScrollPointable.OnHoverDisplay
+  name: OnHoverDisplay()
+  href: api/Sodalite.ScrollPointable.html#Sodalite_ScrollPointable_OnHoverDisplay
+  commentId: M:Sodalite.ScrollPointable.OnHoverDisplay
+  fullName: Sodalite.ScrollPointable.OnHoverDisplay()
+  nameWithType: ScrollPointable.OnHoverDisplay()
+- uid: Sodalite.ScrollPointable.OnHoverDisplay*
+  name: OnHoverDisplay
+  href: api/Sodalite.ScrollPointable.html#Sodalite_ScrollPointable_OnHoverDisplay_
+  commentId: Overload:Sodalite.ScrollPointable.OnHoverDisplay
+  isSpec: "True"
+  fullName: Sodalite.ScrollPointable.OnHoverDisplay
+  nameWithType: ScrollPointable.OnHoverDisplay
+- uid: Sodalite.Sodalite
+  name: Sodalite
+  href: api/Sodalite.Sodalite.html
+  commentId: T:Sodalite.Sodalite
+  fullName: Sodalite.Sodalite
+  nameWithType: Sodalite
+- uid: Sodalite.Sodalite.#ctor
+  name: Sodalite()
+  href: api/Sodalite.Sodalite.html#Sodalite_Sodalite__ctor
+  commentId: M:Sodalite.Sodalite.#ctor
+  fullName: Sodalite.Sodalite.Sodalite()
+  nameWithType: Sodalite.Sodalite()
+- uid: Sodalite.Sodalite.#ctor*
+  name: Sodalite
+  href: api/Sodalite.Sodalite.html#Sodalite_Sodalite__ctor_
+  commentId: Overload:Sodalite.Sodalite.#ctor
+  isSpec: "True"
+  fullName: Sodalite.Sodalite.Sodalite
+  nameWithType: Sodalite.Sodalite
+- uid: Sodalite.Sodalite.System#IDisposable#Dispose
+  name: IDisposable.Dispose()
+  href: api/Sodalite.Sodalite.html#Sodalite_Sodalite_System_IDisposable_Dispose
+  commentId: M:Sodalite.Sodalite.System#IDisposable#Dispose
+  name.vb: System.IDisposable.Dispose()
+  fullName: Sodalite.Sodalite.System.IDisposable.Dispose()
+  nameWithType: Sodalite.IDisposable.Dispose()
+  nameWithType.vb: Sodalite.System.IDisposable.Dispose()
+- uid: Sodalite.Sodalite.System#IDisposable#Dispose*
+  name: IDisposable.Dispose
+  href: api/Sodalite.Sodalite.html#Sodalite_Sodalite_System_IDisposable_Dispose_
+  commentId: Overload:Sodalite.Sodalite.System#IDisposable#Dispose
+  isSpec: "True"
+  name.vb: System.IDisposable.Dispose
+  fullName: Sodalite.Sodalite.System.IDisposable.Dispose
+  nameWithType: Sodalite.IDisposable.Dispose
+  nameWithType.vb: Sodalite.System.IDisposable.Dispose
+- uid: Sodalite.UiWidgets
+  name: Sodalite.UiWidgets
+  href: api/Sodalite.UiWidgets.html
+  commentId: N:Sodalite.UiWidgets
+  fullName: Sodalite.UiWidgets
+  nameWithType: Sodalite.UiWidgets
+- uid: Sodalite.UiWidgets.ButtonWidget
+  name: ButtonWidget
+  href: api/Sodalite.UiWidgets.ButtonWidget.html
+  commentId: T:Sodalite.UiWidgets.ButtonWidget
+  fullName: Sodalite.UiWidgets.ButtonWidget
+  nameWithType: ButtonWidget
+- uid: Sodalite.UiWidgets.ButtonWidget.AddButtonListener(System.Action)
+  name: AddButtonListener(Action)
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_AddButtonListener_System_Action_
+  commentId: M:Sodalite.UiWidgets.ButtonWidget.AddButtonListener(System.Action)
+  fullName: Sodalite.UiWidgets.ButtonWidget.AddButtonListener(System.Action)
+  nameWithType: ButtonWidget.AddButtonListener(Action)
+- uid: Sodalite.UiWidgets.ButtonWidget.AddButtonListener*
+  name: AddButtonListener
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_AddButtonListener_
+  commentId: Overload:Sodalite.UiWidgets.ButtonWidget.AddButtonListener
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.ButtonWidget.AddButtonListener
+  nameWithType: ButtonWidget.AddButtonListener
+- uid: Sodalite.UiWidgets.ButtonWidget.Awake
+  name: Awake()
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_Awake
+  commentId: M:Sodalite.UiWidgets.ButtonWidget.Awake
+  fullName: Sodalite.UiWidgets.ButtonWidget.Awake()
+  nameWithType: ButtonWidget.Awake()
+- uid: Sodalite.UiWidgets.ButtonWidget.Awake*
+  name: Awake
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_Awake_
+  commentId: Overload:Sodalite.UiWidgets.ButtonWidget.Awake
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.ButtonWidget.Awake
+  nameWithType: ButtonWidget.Awake
+- uid: Sodalite.UiWidgets.ButtonWidget.Button
+  name: Button
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_Button
+  commentId: F:Sodalite.UiWidgets.ButtonWidget.Button
+  fullName: Sodalite.UiWidgets.ButtonWidget.Button
+  nameWithType: ButtonWidget.Button
+- uid: Sodalite.UiWidgets.ButtonWidget.ButtonImage
+  name: ButtonImage
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_ButtonImage
+  commentId: F:Sodalite.UiWidgets.ButtonWidget.ButtonImage
+  fullName: Sodalite.UiWidgets.ButtonWidget.ButtonImage
+  nameWithType: ButtonWidget.ButtonImage
+- uid: Sodalite.UiWidgets.ButtonWidget.ButtonText
+  name: ButtonText
+  href: api/Sodalite.UiWidgets.ButtonWidget.html#Sodalite_UiWidgets_ButtonWidget_ButtonText
+  commentId: F:Sodalite.UiWidgets.ButtonWidget.ButtonText
+  fullName: Sodalite.UiWidgets.ButtonWidget.ButtonText
+  nameWithType: ButtonWidget.ButtonText
+- uid: Sodalite.UiWidgets.Extensions
+  name: Extensions
+  href: api/Sodalite.UiWidgets.Extensions.html
+  commentId: T:Sodalite.UiWidgets.Extensions
+  fullName: Sodalite.UiWidgets.Extensions
+  nameWithType: Extensions
+- uid: Sodalite.UiWidgets.Extensions.FillParent(RectTransform)
+  name: FillParent(RectTransform)
+  href: api/Sodalite.UiWidgets.Extensions.html#Sodalite_UiWidgets_Extensions_FillParent_RectTransform_
+  commentId: M:Sodalite.UiWidgets.Extensions.FillParent(RectTransform)
+  fullName: Sodalite.UiWidgets.Extensions.FillParent(RectTransform)
+  nameWithType: Extensions.FillParent(RectTransform)
+- uid: Sodalite.UiWidgets.Extensions.FillParent*
+  name: FillParent
+  href: api/Sodalite.UiWidgets.Extensions.html#Sodalite_UiWidgets_Extensions_FillParent_
+  commentId: Overload:Sodalite.UiWidgets.Extensions.FillParent
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.Extensions.FillParent
+  nameWithType: Extensions.FillParent
+- uid: Sodalite.UiWidgets.GridLayoutWidget
+  name: GridLayoutWidget
+  href: api/Sodalite.UiWidgets.GridLayoutWidget.html
+  commentId: T:Sodalite.UiWidgets.GridLayoutWidget
+  fullName: Sodalite.UiWidgets.GridLayoutWidget
+  nameWithType: GridLayoutWidget
+- uid: Sodalite.UiWidgets.HorizontalLayoutWidget
+  name: HorizontalLayoutWidget
+  href: api/Sodalite.UiWidgets.HorizontalLayoutWidget.html
+  commentId: T:Sodalite.UiWidgets.HorizontalLayoutWidget
+  fullName: Sodalite.UiWidgets.HorizontalLayoutWidget
+  nameWithType: HorizontalLayoutWidget
+- uid: Sodalite.UiWidgets.LayoutWidget`1
+  name: LayoutWidget<TLayout>
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html
+  commentId: T:Sodalite.UiWidgets.LayoutWidget`1
+  name.vb: LayoutWidget(Of TLayout)
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout)
+  nameWithType: LayoutWidget<TLayout>
+  nameWithType.vb: LayoutWidget(Of TLayout)
+- uid: Sodalite.UiWidgets.LayoutWidget`1.AddChild*
+  name: AddChild
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html#Sodalite_UiWidgets_LayoutWidget_1_AddChild_
+  commentId: Overload:Sodalite.UiWidgets.LayoutWidget`1.AddChild
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>.AddChild
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout).AddChild
+  nameWithType: LayoutWidget<TLayout>.AddChild
+  nameWithType.vb: LayoutWidget(Of TLayout).AddChild
+- uid: Sodalite.UiWidgets.LayoutWidget`1.AddChild``1(System.Action{``0})
+  name: AddChild<T>(Action<T>)
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html#Sodalite_UiWidgets_LayoutWidget_1_AddChild__1_System_Action___0__
+  commentId: M:Sodalite.UiWidgets.LayoutWidget`1.AddChild``1(System.Action{``0})
+  name.vb: AddChild(Of T)(Action(Of T))
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>.AddChild<T>(System.Action<T>)
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout).AddChild(Of T)(System.Action(Of T))
+  nameWithType: LayoutWidget<TLayout>.AddChild<T>(Action<T>)
+  nameWithType.vb: LayoutWidget(Of TLayout).AddChild(Of T)(Action(Of T))
+- uid: Sodalite.UiWidgets.LayoutWidget`1.Awake
+  name: Awake()
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html#Sodalite_UiWidgets_LayoutWidget_1_Awake
+  commentId: M:Sodalite.UiWidgets.LayoutWidget`1.Awake
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>.Awake()
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout).Awake()
+  nameWithType: LayoutWidget<TLayout>.Awake()
+  nameWithType.vb: LayoutWidget(Of TLayout).Awake()
+- uid: Sodalite.UiWidgets.LayoutWidget`1.Awake*
+  name: Awake
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html#Sodalite_UiWidgets_LayoutWidget_1_Awake_
+  commentId: Overload:Sodalite.UiWidgets.LayoutWidget`1.Awake
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>.Awake
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout).Awake
+  nameWithType: LayoutWidget<TLayout>.Awake
+  nameWithType.vb: LayoutWidget(Of TLayout).Awake
+- uid: Sodalite.UiWidgets.LayoutWidget`1.LayoutGroup
+  name: LayoutGroup
+  href: api/Sodalite.UiWidgets.LayoutWidget-1.html#Sodalite_UiWidgets_LayoutWidget_1_LayoutGroup
+  commentId: F:Sodalite.UiWidgets.LayoutWidget`1.LayoutGroup
+  fullName: Sodalite.UiWidgets.LayoutWidget<TLayout>.LayoutGroup
+  fullName.vb: Sodalite.UiWidgets.LayoutWidget(Of TLayout).LayoutGroup
+  nameWithType: LayoutWidget<TLayout>.LayoutGroup
+  nameWithType.vb: LayoutWidget(Of TLayout).LayoutGroup
+- uid: Sodalite.UiWidgets.MenuWidget
+  name: MenuWidget
+  href: api/Sodalite.UiWidgets.MenuWidget.html
+  commentId: T:Sodalite.UiWidgets.MenuWidget
+  fullName: Sodalite.UiWidgets.MenuWidget
+  nameWithType: MenuWidget
+- uid: Sodalite.UiWidgets.PagedWidget
+  name: PagedWidget
+  href: api/Sodalite.UiWidgets.PagedWidget.html
+  commentId: T:Sodalite.UiWidgets.PagedWidget
+  fullName: Sodalite.UiWidgets.PagedWidget
+  nameWithType: PagedWidget
+- uid: Sodalite.UiWidgets.TextWidget
+  name: TextWidget
+  href: api/Sodalite.UiWidgets.TextWidget.html
+  commentId: T:Sodalite.UiWidgets.TextWidget
+  fullName: Sodalite.UiWidgets.TextWidget
+  nameWithType: TextWidget
+- uid: Sodalite.UiWidgets.TextWidget.Awake
+  name: Awake()
+  href: api/Sodalite.UiWidgets.TextWidget.html#Sodalite_UiWidgets_TextWidget_Awake
+  commentId: M:Sodalite.UiWidgets.TextWidget.Awake
+  fullName: Sodalite.UiWidgets.TextWidget.Awake()
+  nameWithType: TextWidget.Awake()
+- uid: Sodalite.UiWidgets.TextWidget.Awake*
+  name: Awake
+  href: api/Sodalite.UiWidgets.TextWidget.html#Sodalite_UiWidgets_TextWidget_Awake_
+  commentId: Overload:Sodalite.UiWidgets.TextWidget.Awake
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.TextWidget.Awake
+  nameWithType: TextWidget.Awake
+- uid: Sodalite.UiWidgets.TextWidget.Text
+  name: Text
+  href: api/Sodalite.UiWidgets.TextWidget.html#Sodalite_UiWidgets_TextWidget_Text
+  commentId: F:Sodalite.UiWidgets.TextWidget.Text
+  fullName: Sodalite.UiWidgets.TextWidget.Text
+  nameWithType: TextWidget.Text
+- uid: Sodalite.UiWidgets.UiWidget
+  name: UiWidget
+  href: api/Sodalite.UiWidgets.UiWidget.html
+  commentId: T:Sodalite.UiWidgets.UiWidget
+  fullName: Sodalite.UiWidgets.UiWidget
+  nameWithType: UiWidget
+- uid: Sodalite.UiWidgets.UiWidget.AudioSource
+  name: AudioSource
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_AudioSource
+  commentId: F:Sodalite.UiWidgets.UiWidget.AudioSource
+  fullName: Sodalite.UiWidgets.UiWidget.AudioSource
+  nameWithType: UiWidget.AudioSource
+- uid: Sodalite.UiWidgets.UiWidget.Awake
+  name: Awake()
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_Awake
+  commentId: M:Sodalite.UiWidgets.UiWidget.Awake
+  fullName: Sodalite.UiWidgets.UiWidget.Awake()
+  nameWithType: UiWidget.Awake()
+- uid: Sodalite.UiWidgets.UiWidget.Awake*
+  name: Awake
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_Awake_
+  commentId: Overload:Sodalite.UiWidgets.UiWidget.Awake
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.UiWidget.Awake
+  nameWithType: UiWidget.Awake
+- uid: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget*
+  name: CreateAndConfigureWidget
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_CreateAndConfigureWidget_
+  commentId: Overload:Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget
+  nameWithType: UiWidget.CreateAndConfigureWidget
+- uid: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget``1(GameObject,System.Action{``0})
+  name: CreateAndConfigureWidget<TWidget>(GameObject, Action<TWidget>)
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_CreateAndConfigureWidget__1_GameObject_System_Action___0__
+  commentId: M:Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget``1(GameObject,System.Action{``0})
+  name.vb: CreateAndConfigureWidget(Of TWidget)(GameObject, Action(Of TWidget))
+  fullName: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget<TWidget>(GameObject, System.Action<TWidget>)
+  fullName.vb: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget(Of TWidget)(GameObject, System.Action(Of TWidget))
+  nameWithType: UiWidget.CreateAndConfigureWidget<TWidget>(GameObject, Action<TWidget>)
+  nameWithType.vb: UiWidget.CreateAndConfigureWidget(Of TWidget)(GameObject, Action(Of TWidget))
+- uid: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget``2(GameObject,System.Action{``0},System.Action{``1})
+  name: CreateAndConfigureWidget<TWidget, TStyle>(GameObject, Action<TWidget>, Action<TStyle>)
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_CreateAndConfigureWidget__2_GameObject_System_Action___0__System_Action___1__
+  commentId: M:Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget``2(GameObject,System.Action{``0},System.Action{``1})
+  name.vb: CreateAndConfigureWidget(Of TWidget, TStyle)(GameObject, Action(Of TWidget), Action(Of TStyle))
+  fullName: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget<TWidget, TStyle>(GameObject, System.Action<TWidget>, System.Action<TStyle>)
+  fullName.vb: Sodalite.UiWidgets.UiWidget.CreateAndConfigureWidget(Of TWidget, TStyle)(GameObject, System.Action(Of TWidget), System.Action(Of TStyle))
+  nameWithType: UiWidget.CreateAndConfigureWidget<TWidget, TStyle>(GameObject, Action<TWidget>, Action<TStyle>)
+  nameWithType.vb: UiWidget.CreateAndConfigureWidget(Of TWidget, TStyle)(GameObject, Action(Of TWidget), Action(Of TStyle))
+- uid: Sodalite.UiWidgets.UiWidget.RectTransform
+  name: RectTransform
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_RectTransform
+  commentId: F:Sodalite.UiWidgets.UiWidget.RectTransform
+  fullName: Sodalite.UiWidgets.UiWidget.RectTransform
+  nameWithType: UiWidget.RectTransform
+- uid: Sodalite.UiWidgets.UiWidget.Style
+  name: Style
+  href: api/Sodalite.UiWidgets.UiWidget.html#Sodalite_UiWidgets_UiWidget_Style
+  commentId: F:Sodalite.UiWidgets.UiWidget.Style
+  fullName: Sodalite.UiWidgets.UiWidget.Style
+  nameWithType: UiWidget.Style
+- uid: Sodalite.UiWidgets.VerticalLayoutWidget
+  name: VerticalLayoutWidget
+  href: api/Sodalite.UiWidgets.VerticalLayoutWidget.html
+  commentId: T:Sodalite.UiWidgets.VerticalLayoutWidget
+  fullName: Sodalite.UiWidgets.VerticalLayoutWidget
+  nameWithType: VerticalLayoutWidget
+- uid: Sodalite.UiWidgets.WidgetStyle
+  name: WidgetStyle
+  href: api/Sodalite.UiWidgets.WidgetStyle.html
+  commentId: T:Sodalite.UiWidgets.WidgetStyle
+  fullName: Sodalite.UiWidgets.WidgetStyle
+  nameWithType: WidgetStyle
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected
+  name: ButtonColorSelected
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonColorSelected
+  commentId: P:Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected
+  nameWithType: WidgetStyle.ButtonColorSelected
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected*
+  name: ButtonColorSelected
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonColorSelected_
+  commentId: Overload:Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonColorSelected
+  nameWithType: WidgetStyle.ButtonColorSelected
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected
+  name: ButtonColorUnselected
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonColorUnselected
+  commentId: P:Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected
+  nameWithType: WidgetStyle.ButtonColorUnselected
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected*
+  name: ButtonColorUnselected
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonColorUnselected_
+  commentId: Overload:Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonColorUnselected
+  nameWithType: WidgetStyle.ButtonColorUnselected
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonSprite
+  name: ButtonSprite
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonSprite
+  commentId: P:Sodalite.UiWidgets.WidgetStyle.ButtonSprite
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonSprite
+  nameWithType: WidgetStyle.ButtonSprite
+- uid: Sodalite.UiWidgets.WidgetStyle.ButtonSprite*
+  name: ButtonSprite
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_ButtonSprite_
+  commentId: Overload:Sodalite.UiWidgets.WidgetStyle.ButtonSprite
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.WidgetStyle.ButtonSprite
+  nameWithType: WidgetStyle.ButtonSprite
+- uid: Sodalite.UiWidgets.WidgetStyle.TextColor
+  name: TextColor
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_TextColor
+  commentId: P:Sodalite.UiWidgets.WidgetStyle.TextColor
+  fullName: Sodalite.UiWidgets.WidgetStyle.TextColor
+  nameWithType: WidgetStyle.TextColor
+- uid: Sodalite.UiWidgets.WidgetStyle.TextColor*
+  name: TextColor
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_TextColor_
+  commentId: Overload:Sodalite.UiWidgets.WidgetStyle.TextColor
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.WidgetStyle.TextColor
+  nameWithType: WidgetStyle.TextColor
+- uid: Sodalite.UiWidgets.WidgetStyle.TextFont
+  name: TextFont
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_TextFont
+  commentId: P:Sodalite.UiWidgets.WidgetStyle.TextFont
+  fullName: Sodalite.UiWidgets.WidgetStyle.TextFont
+  nameWithType: WidgetStyle.TextFont
+- uid: Sodalite.UiWidgets.WidgetStyle.TextFont*
+  name: TextFont
+  href: api/Sodalite.UiWidgets.WidgetStyle.html#Sodalite_UiWidgets_WidgetStyle_TextFont_
+  commentId: Overload:Sodalite.UiWidgets.WidgetStyle.TextFont
+  isSpec: "True"
+  fullName: Sodalite.UiWidgets.WidgetStyle.TextFont
+  nameWithType: WidgetStyle.TextFont
+- uid: Sodalite.Utilities
+  name: Sodalite.Utilities
+  href: api/Sodalite.Utilities.html
+  commentId: N:Sodalite.Utilities
+  fullName: Sodalite.Utilities
+  nameWithType: Sodalite.Utilities
+- uid: Sodalite.Utilities.ObservableHashSet`1
+  name: ObservableHashSet<T>
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html
+  commentId: T:Sodalite.Utilities.ObservableHashSet`1
+  name.vb: ObservableHashSet(Of T)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T)
+  nameWithType: ObservableHashSet<T>
+  nameWithType.vb: ObservableHashSet(Of T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Add(`0)
+  name: Add(T)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Add__0_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.Add(`0)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Add(T)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Add(T)
+  nameWithType: ObservableHashSet<T>.Add(T)
+  nameWithType.vb: ObservableHashSet(Of T).Add(T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Add*
+  name: Add
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Add_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Add
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Add
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Add
+  nameWithType: ObservableHashSet<T>.Add
+  nameWithType.vb: ObservableHashSet(Of T).Add
+- uid: Sodalite.Utilities.ObservableHashSet`1.Clear
+  name: Clear()
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Clear
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.Clear
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Clear()
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Clear()
+  nameWithType: ObservableHashSet<T>.Clear()
+  nameWithType.vb: ObservableHashSet(Of T).Clear()
+- uid: Sodalite.Utilities.ObservableHashSet`1.Clear*
+  name: Clear
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Clear_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Clear
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Clear
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Clear
+  nameWithType: ObservableHashSet<T>.Clear
+  nameWithType.vb: ObservableHashSet(Of T).Clear
+- uid: Sodalite.Utilities.ObservableHashSet`1.Contains(`0)
+  name: Contains(T)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Contains__0_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.Contains(`0)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Contains(T)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Contains(T)
+  nameWithType: ObservableHashSet<T>.Contains(T)
+  nameWithType.vb: ObservableHashSet(Of T).Contains(T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Contains*
+  name: Contains
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Contains_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Contains
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Contains
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Contains
+  nameWithType: ObservableHashSet<T>.Contains
+  nameWithType.vb: ObservableHashSet(Of T).Contains
+- uid: Sodalite.Utilities.ObservableHashSet`1.CopyTo(`0[],System.Int32)
+  name: CopyTo(T[], Int32)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_CopyTo__0___System_Int32_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.CopyTo(`0[],System.Int32)
+  name.vb: CopyTo(T(), Int32)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.CopyTo(T[], System.Int32)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).CopyTo(T(), System.Int32)
+  nameWithType: ObservableHashSet<T>.CopyTo(T[], Int32)
+  nameWithType.vb: ObservableHashSet(Of T).CopyTo(T(), Int32)
+- uid: Sodalite.Utilities.ObservableHashSet`1.CopyTo*
+  name: CopyTo
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_CopyTo_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.CopyTo
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.CopyTo
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).CopyTo
+  nameWithType: ObservableHashSet<T>.CopyTo
+  nameWithType.vb: ObservableHashSet(Of T).CopyTo
+- uid: Sodalite.Utilities.ObservableHashSet`1.Count
+  name: Count
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Count
+  commentId: P:Sodalite.Utilities.ObservableHashSet`1.Count
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Count
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Count
+  nameWithType: ObservableHashSet<T>.Count
+  nameWithType.vb: ObservableHashSet(Of T).Count
+- uid: Sodalite.Utilities.ObservableHashSet`1.Count*
+  name: Count
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Count_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Count
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Count
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Count
+  nameWithType: ObservableHashSet<T>.Count
+  nameWithType.vb: ObservableHashSet(Of T).Count
+- uid: Sodalite.Utilities.ObservableHashSet`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_GetEnumerator
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.GetEnumerator
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.GetEnumerator()
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).GetEnumerator()
+  nameWithType: ObservableHashSet<T>.GetEnumerator()
+  nameWithType.vb: ObservableHashSet(Of T).GetEnumerator()
+- uid: Sodalite.Utilities.ObservableHashSet`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_GetEnumerator_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.GetEnumerator
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.GetEnumerator
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).GetEnumerator
+  nameWithType: ObservableHashSet<T>.GetEnumerator
+  nameWithType.vb: ObservableHashSet(Of T).GetEnumerator
+- uid: Sodalite.Utilities.ObservableHashSet`1.IndexOf(`0)
+  name: IndexOf(T)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_IndexOf__0_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.IndexOf(`0)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.IndexOf(T)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).IndexOf(T)
+  nameWithType: ObservableHashSet<T>.IndexOf(T)
+  nameWithType.vb: ObservableHashSet(Of T).IndexOf(T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.IndexOf*
+  name: IndexOf
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_IndexOf_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.IndexOf
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.IndexOf
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).IndexOf
+  nameWithType: ObservableHashSet<T>.IndexOf
+  nameWithType.vb: ObservableHashSet(Of T).IndexOf
+- uid: Sodalite.Utilities.ObservableHashSet`1.Insert(System.Int32,`0)
+  name: Insert(Int32, T)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Insert_System_Int32__0_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.Insert(System.Int32,`0)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Insert(System.Int32, T)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Insert(System.Int32, T)
+  nameWithType: ObservableHashSet<T>.Insert(Int32, T)
+  nameWithType.vb: ObservableHashSet(Of T).Insert(Int32, T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Insert*
+  name: Insert
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Insert_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Insert
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Insert
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Insert
+  nameWithType: ObservableHashSet<T>.Insert
+  nameWithType.vb: ObservableHashSet(Of T).Insert
+- uid: Sodalite.Utilities.ObservableHashSet`1.IsReadOnly
+  name: IsReadOnly
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_IsReadOnly
+  commentId: P:Sodalite.Utilities.ObservableHashSet`1.IsReadOnly
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.IsReadOnly
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).IsReadOnly
+  nameWithType: ObservableHashSet<T>.IsReadOnly
+  nameWithType.vb: ObservableHashSet(Of T).IsReadOnly
+- uid: Sodalite.Utilities.ObservableHashSet`1.IsReadOnly*
+  name: IsReadOnly
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_IsReadOnly_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.IsReadOnly
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.IsReadOnly
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).IsReadOnly
+  nameWithType: ObservableHashSet<T>.IsReadOnly
+  nameWithType.vb: ObservableHashSet(Of T).IsReadOnly
+- uid: Sodalite.Utilities.ObservableHashSet`1.Item(System.Int32)
+  name: Item[Int32]
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Item_System_Int32_
+  commentId: P:Sodalite.Utilities.ObservableHashSet`1.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Item[System.Int32]
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Item(System.Int32)
+  nameWithType: ObservableHashSet<T>.Item[Int32]
+  nameWithType.vb: ObservableHashSet(Of T).Item(Int32)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Item*
+  name: Item
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Item_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Item
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Item
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Item
+  nameWithType: ObservableHashSet<T>.Item
+  nameWithType.vb: ObservableHashSet(Of T).Item
+- uid: Sodalite.Utilities.ObservableHashSet`1.ItemAdded
+  name: ItemAdded
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_ItemAdded
+  commentId: E:Sodalite.Utilities.ObservableHashSet`1.ItemAdded
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.ItemAdded
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).ItemAdded
+  nameWithType: ObservableHashSet<T>.ItemAdded
+  nameWithType.vb: ObservableHashSet(Of T).ItemAdded
+- uid: Sodalite.Utilities.ObservableHashSet`1.ItemRemoved
+  name: ItemRemoved
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_ItemRemoved
+  commentId: E:Sodalite.Utilities.ObservableHashSet`1.ItemRemoved
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.ItemRemoved
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).ItemRemoved
+  nameWithType: ObservableHashSet<T>.ItemRemoved
+  nameWithType.vb: ObservableHashSet(Of T).ItemRemoved
+- uid: Sodalite.Utilities.ObservableHashSet`1.Remove(`0)
+  name: Remove(T)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Remove__0_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.Remove(`0)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Remove(T)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Remove(T)
+  nameWithType: ObservableHashSet<T>.Remove(T)
+  nameWithType.vb: ObservableHashSet(Of T).Remove(T)
+- uid: Sodalite.Utilities.ObservableHashSet`1.Remove*
+  name: Remove
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_Remove_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.Remove
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.Remove
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).Remove
+  nameWithType: ObservableHashSet<T>.Remove
+  nameWithType.vb: ObservableHashSet(Of T).Remove
+- uid: Sodalite.Utilities.ObservableHashSet`1.RemoveAt(System.Int32)
+  name: RemoveAt(Int32)
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_RemoveAt_System_Int32_
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.RemoveAt(System.Int32)
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.RemoveAt(System.Int32)
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).RemoveAt(System.Int32)
+  nameWithType: ObservableHashSet<T>.RemoveAt(Int32)
+  nameWithType.vb: ObservableHashSet(Of T).RemoveAt(Int32)
+- uid: Sodalite.Utilities.ObservableHashSet`1.RemoveAt*
+  name: RemoveAt
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_RemoveAt_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.RemoveAt
+  isSpec: "True"
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.RemoveAt
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).RemoveAt
+  nameWithType: ObservableHashSet<T>.RemoveAt
+  nameWithType.vb: ObservableHashSet(Of T).RemoveAt
+- uid: Sodalite.Utilities.ObservableHashSet`1.System#Collections#IEnumerable#GetEnumerator
+  name: IEnumerable.GetEnumerator()
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_System_Collections_IEnumerable_GetEnumerator
+  commentId: M:Sodalite.Utilities.ObservableHashSet`1.System#Collections#IEnumerable#GetEnumerator
+  name.vb: System.Collections.IEnumerable.GetEnumerator()
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.System.Collections.IEnumerable.GetEnumerator()
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).System.Collections.IEnumerable.GetEnumerator()
+  nameWithType: ObservableHashSet<T>.IEnumerable.GetEnumerator()
+  nameWithType.vb: ObservableHashSet(Of T).System.Collections.IEnumerable.GetEnumerator()
+- uid: Sodalite.Utilities.ObservableHashSet`1.System#Collections#IEnumerable#GetEnumerator*
+  name: IEnumerable.GetEnumerator
+  href: api/Sodalite.Utilities.ObservableHashSet-1.html#Sodalite_Utilities_ObservableHashSet_1_System_Collections_IEnumerable_GetEnumerator_
+  commentId: Overload:Sodalite.Utilities.ObservableHashSet`1.System#Collections#IEnumerable#GetEnumerator
+  isSpec: "True"
+  name.vb: System.Collections.IEnumerable.GetEnumerator
+  fullName: Sodalite.Utilities.ObservableHashSet<T>.System.Collections.IEnumerable.GetEnumerator
+  fullName.vb: Sodalite.Utilities.ObservableHashSet(Of T).System.Collections.IEnumerable.GetEnumerator
+  nameWithType: ObservableHashSet<T>.IEnumerable.GetEnumerator
+  nameWithType.vb: ObservableHashSet(Of T).System.Collections.IEnumerable.GetEnumerator
+- uid: Sodalite.Utilities.SodaliteUtils
+  name: SodaliteUtils
+  href: api/Sodalite.Utilities.SodaliteUtils.html
+  commentId: T:Sodalite.Utilities.SodaliteUtils
+  fullName: Sodalite.Utilities.SodaliteUtils
+  nameWithType: SodaliteUtils
+- uid: Sodalite.Utilities.SodaliteUtils.GetRandom*
+  name: GetRandom
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetRandom_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.GetRandom
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.GetRandom
+  nameWithType: SodaliteUtils.GetRandom
+- uid: Sodalite.Utilities.SodaliteUtils.GetRandom``1(System.Collections.Generic.IList{``0})
+  name: GetRandom<T>(IList<T>)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetRandom__1_System_Collections_Generic_IList___0__
+  commentId: M:Sodalite.Utilities.SodaliteUtils.GetRandom``1(System.Collections.Generic.IList{``0})
+  name.vb: GetRandom(Of T)(IList(Of T))
+  fullName: Sodalite.Utilities.SodaliteUtils.GetRandom<T>(System.Collections.Generic.IList<T>)
+  fullName.vb: Sodalite.Utilities.SodaliteUtils.GetRandom(Of T)(System.Collections.Generic.IList(Of T))
+  nameWithType: SodaliteUtils.GetRandom<T>(IList<T>)
+  nameWithType.vb: SodaliteUtils.GetRandom(Of T)(IList(Of T))
+- uid: Sodalite.Utilities.SodaliteUtils.GetResource(System.Reflection.Assembly,System.String)
+  name: GetResource(Assembly, String)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetResource_System_Reflection_Assembly_System_String_
+  commentId: M:Sodalite.Utilities.SodaliteUtils.GetResource(System.Reflection.Assembly,System.String)
+  fullName: Sodalite.Utilities.SodaliteUtils.GetResource(System.Reflection.Assembly, System.String)
+  nameWithType: SodaliteUtils.GetResource(Assembly, String)
+- uid: Sodalite.Utilities.SodaliteUtils.GetResource*
+  name: GetResource
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetResource_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.GetResource
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.GetResource
+  nameWithType: SodaliteUtils.GetResource
+- uid: Sodalite.Utilities.SodaliteUtils.GetTypesSafe(System.Reflection.Assembly)
+  name: GetTypesSafe(Assembly)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetTypesSafe_System_Reflection_Assembly_
+  commentId: M:Sodalite.Utilities.SodaliteUtils.GetTypesSafe(System.Reflection.Assembly)
+  fullName: Sodalite.Utilities.SodaliteUtils.GetTypesSafe(System.Reflection.Assembly)
+  nameWithType: SodaliteUtils.GetTypesSafe(Assembly)
+- uid: Sodalite.Utilities.SodaliteUtils.GetTypesSafe*
+  name: GetTypesSafe
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_GetTypesSafe_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.GetTypesSafe
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.GetTypesSafe
+  nameWithType: SodaliteUtils.GetTypesSafe
+- uid: Sodalite.Utilities.SodaliteUtils.HasFlag*
+  name: HasFlag
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_HasFlag_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.HasFlag
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.HasFlag
+  nameWithType: SodaliteUtils.HasFlag
+- uid: Sodalite.Utilities.SodaliteUtils.HasFlag``1(``0,``0)
+  name: HasFlag<TEnum>(TEnum, TEnum)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_HasFlag__1___0___0_
+  commentId: M:Sodalite.Utilities.SodaliteUtils.HasFlag``1(``0,``0)
+  name.vb: HasFlag(Of TEnum)(TEnum, TEnum)
+  fullName: Sodalite.Utilities.SodaliteUtils.HasFlag<TEnum>(TEnum, TEnum)
+  fullName.vb: Sodalite.Utilities.SodaliteUtils.HasFlag(Of TEnum)(TEnum, TEnum)
+  nameWithType: SodaliteUtils.HasFlag<TEnum>(TEnum, TEnum)
+  nameWithType.vb: SodaliteUtils.HasFlag(Of TEnum)(TEnum, TEnum)
+- uid: Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes(System.Byte[])
+  name: LoadTextureFromBytes(Byte[])
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_LoadTextureFromBytes_System_Byte___
+  commentId: M:Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes(System.Byte[])
+  name.vb: LoadTextureFromBytes(Byte())
+  fullName: Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes(System.Byte[])
+  fullName.vb: Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes(System.Byte())
+  nameWithType: SodaliteUtils.LoadTextureFromBytes(Byte[])
+  nameWithType.vb: SodaliteUtils.LoadTextureFromBytes(Byte())
+- uid: Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes*
+  name: LoadTextureFromBytes
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_LoadTextureFromBytes_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.LoadTextureFromBytes
+  nameWithType: SodaliteUtils.LoadTextureFromBytes
+- uid: Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile(System.String)
+  name: LoadTextureFromFile(String)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_LoadTextureFromFile_System_String_
+  commentId: M:Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile(System.String)
+  fullName: Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile(System.String)
+  nameWithType: SodaliteUtils.LoadTextureFromFile(String)
+- uid: Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile*
+  name: LoadTextureFromFile
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_LoadTextureFromFile_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.LoadTextureFromFile
+  nameWithType: SodaliteUtils.LoadTextureFromFile
+- uid: Sodalite.Utilities.SodaliteUtils.TryCatch(System.Collections.IEnumerator,System.Action{System.Exception})
+  name: TryCatch(IEnumerator, Action<Exception>)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_TryCatch_System_Collections_IEnumerator_System_Action_System_Exception__
+  commentId: M:Sodalite.Utilities.SodaliteUtils.TryCatch(System.Collections.IEnumerator,System.Action{System.Exception})
+  name.vb: TryCatch(IEnumerator, Action(Of Exception))
+  fullName: Sodalite.Utilities.SodaliteUtils.TryCatch(System.Collections.IEnumerator, System.Action<System.Exception>)
+  fullName.vb: Sodalite.Utilities.SodaliteUtils.TryCatch(System.Collections.IEnumerator, System.Action(Of System.Exception))
+  nameWithType: SodaliteUtils.TryCatch(IEnumerator, Action<Exception>)
+  nameWithType.vb: SodaliteUtils.TryCatch(IEnumerator, Action(Of Exception))
+- uid: Sodalite.Utilities.SodaliteUtils.TryCatch*
+  name: TryCatch
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_TryCatch_
+  commentId: Overload:Sodalite.Utilities.SodaliteUtils.TryCatch
+  isSpec: "True"
+  fullName: Sodalite.Utilities.SodaliteUtils.TryCatch
+  nameWithType: SodaliteUtils.TryCatch
+- uid: Sodalite.Utilities.SodaliteUtils.TryCatch``1(System.Collections.IEnumerator,System.Action{``0})
+  name: TryCatch<T>(IEnumerator, Action<T>)
+  href: api/Sodalite.Utilities.SodaliteUtils.html#Sodalite_Utilities_SodaliteUtils_TryCatch__1_System_Collections_IEnumerator_System_Action___0__
+  commentId: M:Sodalite.Utilities.SodaliteUtils.TryCatch``1(System.Collections.IEnumerator,System.Action{``0})
+  name.vb: TryCatch(Of T)(IEnumerator, Action(Of T))
+  fullName: Sodalite.Utilities.SodaliteUtils.TryCatch<T>(System.Collections.IEnumerator, System.Action<T>)
+  fullName.vb: Sodalite.Utilities.SodaliteUtils.TryCatch(Of T)(System.Collections.IEnumerator, System.Action(Of T))
+  nameWithType: SodaliteUtils.TryCatch<T>(IEnumerator, Action<T>)
+  nameWithType.vb: SodaliteUtils.TryCatch(Of T)(IEnumerator, Action(Of T))
+- uid: Sodalite.Utilities.Vector3Converter
+  name: Vector3Converter
+  href: api/Sodalite.Utilities.Vector3Converter.html
+  commentId: T:Sodalite.Utilities.Vector3Converter
+  fullName: Sodalite.Utilities.Vector3Converter
+  nameWithType: Vector3Converter
+- uid: Sodalite.Utilities.Vector3Converter.CanConvert(System.Type)
+  name: CanConvert(Type)
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_CanConvert_System_Type_
+  commentId: M:Sodalite.Utilities.Vector3Converter.CanConvert(System.Type)
+  fullName: Sodalite.Utilities.Vector3Converter.CanConvert(System.Type)
+  nameWithType: Vector3Converter.CanConvert(Type)
+- uid: Sodalite.Utilities.Vector3Converter.CanConvert*
+  name: CanConvert
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_CanConvert_
+  commentId: Overload:Sodalite.Utilities.Vector3Converter.CanConvert
+  isSpec: "True"
+  fullName: Sodalite.Utilities.Vector3Converter.CanConvert
+  nameWithType: Vector3Converter.CanConvert
+- uid: Sodalite.Utilities.Vector3Converter.ReadJson(Valve.Newtonsoft.Json.JsonReader,System.Type,System.Object,Valve.Newtonsoft.Json.JsonSerializer)
+  name: ReadJson(JsonReader, Type, Object, JsonSerializer)
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_ReadJson_Valve_Newtonsoft_Json_JsonReader_System_Type_System_Object_Valve_Newtonsoft_Json_JsonSerializer_
+  commentId: M:Sodalite.Utilities.Vector3Converter.ReadJson(Valve.Newtonsoft.Json.JsonReader,System.Type,System.Object,Valve.Newtonsoft.Json.JsonSerializer)
+  fullName: Sodalite.Utilities.Vector3Converter.ReadJson(Valve.Newtonsoft.Json.JsonReader, System.Type, System.Object, Valve.Newtonsoft.Json.JsonSerializer)
+  nameWithType: Vector3Converter.ReadJson(JsonReader, Type, Object, JsonSerializer)
+- uid: Sodalite.Utilities.Vector3Converter.ReadJson*
+  name: ReadJson
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_ReadJson_
+  commentId: Overload:Sodalite.Utilities.Vector3Converter.ReadJson
+  isSpec: "True"
+  fullName: Sodalite.Utilities.Vector3Converter.ReadJson
+  nameWithType: Vector3Converter.ReadJson
+- uid: Sodalite.Utilities.Vector3Converter.WriteJson(Valve.Newtonsoft.Json.JsonWriter,System.Object,Valve.Newtonsoft.Json.JsonSerializer)
+  name: WriteJson(JsonWriter, Object, JsonSerializer)
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_WriteJson_Valve_Newtonsoft_Json_JsonWriter_System_Object_Valve_Newtonsoft_Json_JsonSerializer_
+  commentId: M:Sodalite.Utilities.Vector3Converter.WriteJson(Valve.Newtonsoft.Json.JsonWriter,System.Object,Valve.Newtonsoft.Json.JsonSerializer)
+  fullName: Sodalite.Utilities.Vector3Converter.WriteJson(Valve.Newtonsoft.Json.JsonWriter, System.Object, Valve.Newtonsoft.Json.JsonSerializer)
+  nameWithType: Vector3Converter.WriteJson(JsonWriter, Object, JsonSerializer)
+- uid: Sodalite.Utilities.Vector3Converter.WriteJson*
+  name: WriteJson
+  href: api/Sodalite.Utilities.Vector3Converter.html#Sodalite_Utilities_Vector3Converter_WriteJson_
+  commentId: Overload:Sodalite.Utilities.Vector3Converter.WriteJson
+  isSpec: "True"
+  fullName: Sodalite.Utilities.Vector3Converter.WriteJson
+  nameWithType: Vector3Converter.WriteJson

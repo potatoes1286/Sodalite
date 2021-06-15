@@ -1,0 +1,649 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class FirearmAPI
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class FirearmAPI
+   ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Sodalite.Api.FirearmAPI">
+  
+  
+  <h1 id="Sodalite_Api_FirearmAPI" data-uid="Sodalite.Api.FirearmAPI" class="text-break">Class FirearmAPI
+  </h1>
+  <div class="markdown level0 summary"><p>Sodalite API for interacting with firearms and magazines</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">FirearmAPI</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Sodalite.Api.html">Sodalite.Api</a></h6>
+  <h6><strong>Assembly</strong>: Sodalite.dll</h6>
+  <h5 id="Sodalite_Api_FirearmAPI_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static class FirearmAPI</code></pre>
+  </div>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_AllComponentsLoaded_FistVR_SavedGun_.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.AllComponentsLoaded(FistVR.SavedGun)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L37">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_AllComponentsLoaded_" data-uid="Sodalite.Api.FirearmAPI.AllComponentsLoaded*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_AllComponentsLoaded_FistVR_SavedGun_" data-uid="Sodalite.Api.FirearmAPI.AllComponentsLoaded(FistVR.SavedGun)">AllComponentsLoaded(SavedGun)</h4>
+  <div class="markdown level1 summary"><p>Checks if all the components contained in this saved gun are available.
+Mainly useful for verifying that a saved gun does not contain components from uninstalled mods</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool AllComponentsLoaded(this SavedGun savedGun)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.SavedGun</span></td>
+        <td><span class="parametername">savedGun</span></td>
+        <td><p>The SavedGun object (vault file)</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>True if everything is available</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetAttachedObjects_FistVR_FVRFireArm_.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetAttachedObjects(FistVR.FVRFireArm)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L20">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetAttachedObjects_" data-uid="Sodalite.Api.FirearmAPI.GetAttachedObjects*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetAttachedObjects_FistVR_FVRFireArm_" data-uid="Sodalite.Api.FirearmAPI.GetAttachedObjects(FistVR.FVRFireArm)">GetAttachedObjects(FVRFireArm)</h4>
+  <div class="markdown level1 summary"><p>Gets a collection of all the objects attached to this firearm</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static ReadOnlyCollection&lt;FVRPhysicalObject&gt; GetAttachedObjects(this FVRFireArm fireArm)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRFireArm</span></td>
+        <td><span class="parametername">fireArm</span></td>
+        <td><p>The firearm that is being scanned for attachments</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.ObjectModel.ReadOnlyCollection</span>&lt;<span class="xref">FistVR.FVRPhysicalObject</span>&gt;</td>
+        <td><p>A read-only collection containing the firearm, it's magazine, and all it's attachments</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetCompatibleMagazines_FistVR_FVRObject_.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetCompatibleMagazines(FistVR.FVRObject)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L46">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetCompatibleMagazines_" data-uid="Sodalite.Api.FirearmAPI.GetCompatibleMagazines*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetCompatibleMagazines_FistVR_FVRObject_" data-uid="Sodalite.Api.FirearmAPI.GetCompatibleMagazines(FistVR.FVRObject)">GetCompatibleMagazines(FVRObject)</h4>
+  <div class="markdown level1 summary"><p>Merge the compatible magazines, clips, and speed loaders into one list</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static ReadOnlyCollection&lt;FVRObject&gt; GetCompatibleMagazines(this FVRObject firearm)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><span class="parametername">firearm</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.ObjectModel.ReadOnlyCollection</span>&lt;<span class="xref">FistVR.FVRObject</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetMagazineCompatibleWithAny_System_Collections_Generic_IEnumerable_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable%7BFistVR.FVRObject%7D%2CSystem.Func%7BFistVR.FVRObject%2CSystem.Boolean%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L101">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetMagazineCompatibleWithAny_" data-uid="Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetMagazineCompatibleWithAny_System_Collections_Generic_IEnumerable_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__" data-uid="Sodalite.Api.FirearmAPI.GetMagazineCompatibleWithAny(System.Collections.Generic.IEnumerable{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})">GetMagazineCompatibleWithAny(IEnumerable&lt;FVRObject&gt;, Func&lt;FVRObject, Boolean&gt;)</h4>
+  <div class="markdown level1 summary"><p>Returns a magazine that is compatible with any of the (firearm) objects in the pool</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FVRObject GetMagazineCompatibleWithAny(IEnumerable&lt;FVRObject&gt; pool, Func&lt;FVRObject, bool&gt; filter = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<span class="xref">FistVR.FVRObject</span>&gt;</td>
+        <td><span class="parametername">pool</span></td>
+        <td><p>The collection of objects to get a compatible magazine for</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">FistVR.FVRObject</span>, <span class="xref">System.Boolean</span>&gt;</td>
+        <td><span class="parametername">filter</span></td>
+        <td><p>The optional filter to apply to the result</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><p>The FVRObject of a magazine, clip, or speed loader</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetNextHighestCapacityMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Int32_System_Func_FistVR_FVRObject_System_Boolean__.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList%7BFistVR.FVRObject%7D%2CSystem.Int32%2CSystem.Func%7BFistVR.FVRObject%2CSystem.Boolean%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L88">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetNextHighestCapacityMagazine_" data-uid="Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetNextHighestCapacityMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Int32_System_Func_FistVR_FVRObject_System_Boolean__" data-uid="Sodalite.Api.FirearmAPI.GetNextHighestCapacityMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Int32,System.Func{FistVR.FVRObject,System.Boolean})">GetNextHighestCapacityMagazine(IList&lt;FVRObject&gt;, Int32, Func&lt;FVRObject, Boolean&gt;)</h4>
+  <div class="markdown level1 summary"><p>Gets a magazine from the provided pool that has a capacity one step up from the capacity provided</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FVRObject GetNextHighestCapacityMagazine(IList&lt;FVRObject&gt; pool, int currentCap, Func&lt;FVRObject, bool&gt; filter = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<span class="xref">FistVR.FVRObject</span>&gt;</td>
+        <td><span class="parametername">pool</span></td>
+        <td><p>The collection of magazines to select from</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">currentCap</span></td>
+        <td><p>The capacity to compare against</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">FistVR.FVRObject</span>, <span class="xref">System.Boolean</span>&gt;</td>
+        <td><span class="parametername">filter</span></td>
+        <td><p>Optional func to filter the results</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><p>The FVRObject of a magazine, clip, or speed loader</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetSmallestMagazine_FistVR_FVRObject_System_Func_FistVR_FVRObject_System_Boolean__.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject%2CSystem.Func%7BFistVR.FVRObject%2CSystem.Boolean%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L140">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetSmallestMagazine_" data-uid="Sodalite.Api.FirearmAPI.GetSmallestMagazine*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetSmallestMagazine_FistVR_FVRObject_System_Func_FistVR_FVRObject_System_Boolean__" data-uid="Sodalite.Api.FirearmAPI.GetSmallestMagazine(FistVR.FVRObject,System.Func{FistVR.FVRObject,System.Boolean})">GetSmallestMagazine(FVRObject, Func&lt;FVRObject, Boolean&gt;)</h4>
+  <div class="markdown level1 summary"><p>Returns the smallest magazine compatible with the provided firearm that passes the filter or null if there are none</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FVRObject GetSmallestMagazine(FVRObject firearm, Func&lt;FVRObject, bool&gt; filter = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><span class="parametername">firearm</span></td>
+        <td><p>The FVRObject of the firearm</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">FistVR.FVRObject</span>, <span class="xref">System.Boolean</span>&gt;</td>
+        <td><span class="parametername">filter</span></td>
+        <td><p>The optional filter to apply to the result</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><p>The FVRObject of a magazine, clip, or speed loader</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_GetSmallestMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList%7BFistVR.FVRObject%7D%2CSystem.Func%7BFistVR.FVRObject%2CSystem.Boolean%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L121">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_GetSmallestMagazine_" data-uid="Sodalite.Api.FirearmAPI.GetSmallestMagazine*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_GetSmallestMagazine_System_Collections_Generic_IList_FistVR_FVRObject__System_Func_FistVR_FVRObject_System_Boolean__" data-uid="Sodalite.Api.FirearmAPI.GetSmallestMagazine(System.Collections.Generic.IList{FistVR.FVRObject},System.Func{FistVR.FVRObject,System.Boolean})">GetSmallestMagazine(IList&lt;FVRObject&gt;, Func&lt;FVRObject, Boolean&gt;)</h4>
+  <div class="markdown level1 summary"><p>Returns the smallest magazine from the pool that passes the filter or null if there are none</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FVRObject GetSmallestMagazine(IList&lt;FVRObject&gt; pool, Func&lt;FVRObject, bool&gt; filter = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<span class="xref">FistVR.FVRObject</span>&gt;</td>
+        <td><span class="parametername">pool</span></td>
+        <td><p>The collection of objects to get a compatible magazine for</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">FistVR.FVRObject</span>, <span class="xref">System.Boolean</span>&gt;</td>
+        <td><span class="parametername">filter</span></td>
+        <td><p>The optional filter to apply to the result</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><p>The FVRObject of a magazine, clip, or speed loader</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_HasAmmo_FistVR_FVRObject_.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.HasAmmo(FistVR.FVRObject)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L57">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_HasAmmo_" data-uid="Sodalite.Api.FirearmAPI.HasAmmo*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_HasAmmo_FistVR_FVRObject_" data-uid="Sodalite.Api.FirearmAPI.HasAmmo(FistVR.FVRObject)">HasAmmo(FVRObject)</h4>
+  <div class="markdown level1 summary"><p>Checks if the object has any compatible ammo containers</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool HasAmmo(this FVRObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The FVRObject to check</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>True if the FVRObject has any compatible rounds, clips, magazines, or speed loaders. False if it contains none of these</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI_HasMagazine_FistVR_FVRObject_.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI.HasMagazine(FistVR.FVRObject)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L70">View Source</a>
+  </span>
+  <a id="Sodalite_Api_FirearmAPI_HasMagazine_" data-uid="Sodalite.Api.FirearmAPI.HasMagazine*"></a>
+  <h4 id="Sodalite_Api_FirearmAPI_HasMagazine_FistVR_FVRObject_" data-uid="Sodalite.Api.FirearmAPI.HasMagazine(FistVR.FVRObject)">HasMagazine(FVRObject)</h4>
+  <div class="markdown level1 summary"><p>Returns true if the given FVRObject has any compatible clips, magazines, or speed loaders</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool HasMagazine(this FVRObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">FistVR.FVRObject</span></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The FVRObject that is being checked</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>True if the FVRObject has any compatible clips, magazines, or speed loaders. False if it contains none of these</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/H3VR-Modding/Sodalite/new/main/apiSpec/new?filename=Sodalite_Api_FirearmAPI.md&amp;value=---%0Auid%3A%20Sodalite.Api.FirearmAPI%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/H3VR-Modding/Sodalite/blob/main/src/Sodalite/src/Api/Firearm.cs/#L13" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="toggle-mode">
+                <div class="icon">
+                  <i aria-hidden="true">☀</i>
+                </div>
+                <label class="switch">
+                  <input type="checkbox" id="switch-style">
+                  <span class="slider round"></span>
+                </label>
+                <div class="icon">
+                  <i aria-hidden="true">☾</i>
+                </div>
+                <script type="text/javascript" src="../styles/toggle-theme.js"></script>
+              </div>
+          
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
